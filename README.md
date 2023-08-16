@@ -20,7 +20,7 @@ The Movie Review App is a simple web application that allows users to view a lis
 To run the Movie Review App locally, follow these steps:
 
 1. Clone the repository:
-   `git clone https://github.com/your-username/movie-review-app.git`
+   `git clone https://github.com/arturo201/movie-review-app.git`
 2. Navigate to the project directory:
    `cd movie-review-app`
 3. Install dependencies:
